@@ -1,0 +1,5 @@
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+matplotlib==3.5
+seaborn==0.12
